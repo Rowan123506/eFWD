@@ -1,0 +1,27 @@
+.peter {
+  border-radius: 1pc;
+  cursor: pointer;
+}
+.peter:hover {
+  background-color: gray;
+  opacity: 0.5;
+}
+.font {
+  font-size: 3.5pc;
+}
+.font_text {
+  font-size: 1.4pc;
+}
+.font_text2 {
+  font-size: 2pc;
+}
+.margin {
+  margin-top: 3pc;
+}
+.black {
+  color: black;
+}
+.icon {
+  width: 2pc;
+  height: 3pc;
+}
